@@ -1,0 +1,9 @@
+# Python 3.11.4
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.16.2          # зависимость scikit-learn, закреплена для воспроизводимости
+scikit-learn==1.7.2
+lightgbm==4.6.0
+catboost==1.2.10
+matplotlib==3.10.8
+notebook
